@@ -1,0 +1,938 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\asynclazy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\asynclazy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\splashpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\splashpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\splashpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\splashpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\resetpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\resetpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\resetpasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\resetpasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\registerpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\registerpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\registerpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\registerpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\personaldetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\personaldetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\personaldetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\personaldetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\onboardingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\onboardingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\onboardingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\onboardingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\notificationspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\notificationspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\notificationspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\notificationspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\forgotpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\forgotpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\forgotpasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\forgotpasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\editentrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\editentrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\editentrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\editentrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\allentrylist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\allentrylist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\allentrylist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\allentrylist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\addentrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\addentrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\views\\addentrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\views\\addentrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\viewmodel\\diaryentryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\viewmodel\\diaryentryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\services\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\services\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\services\\firebaseauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\services\\firebaseauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\models\\pushnotificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\models\\pushnotificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\models\\pushnotificationreceived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\models\\pushnotificationreceived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\data\\diaryentrydatabasecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\data\\diaryentrydatabasecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\models\\diaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\models\\diaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\auroradiary11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\auroradiary11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|c:\\users\\admin\\source\\repos\\auroradiary11\\auroradiary11\\resources\\images\\settings.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E4E076FE-3706-4039-80DC-167D4857207A}|AuroraDiary11\\AuroraDiary11.csproj|solutionrelative:auroradiary11\\resources\\images\\settings.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Data\\Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuroraDiary11\\Data\\Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\App.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:28:03.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\AppShell.xaml",
+              "RelativeToolTip": "AuroraDiary11\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T04:29:35.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\AppShell.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:53:27.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsyncLazy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\AsyncLazy.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\AsyncLazy.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\AsyncLazy.cs",
+              "RelativeToolTip": "AuroraDiary11\\AsyncLazy.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:30:49.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Constants.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Constants.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Constants.cs",
+              "RelativeToolTip": "AuroraDiary11\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:32:30.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\MainPage.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:35:35.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\MainPage.xaml",
+              "RelativeToolTip": "AuroraDiary11\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T04:33:57.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\MauiProgram.cs",
+              "RelativeToolTip": "AuroraDiary11\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:36:28.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SplashPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\SplashPage.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\SplashPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\SplashPage.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\Views\\SplashPage.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:56:18.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SplashPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\SplashPage.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\SplashPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\SplashPage.xaml",
+              "RelativeToolTip": "AuroraDiary11\\Views\\SplashPage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T04:56:02.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\SettingsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\Views\\SettingsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:06:51.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\SettingsPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\SettingsPage.xaml",
+              "RelativeToolTip": "AuroraDiary11\\Views\\SettingsPage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T12:06:02.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResetPasswordPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\ResetPasswordPage.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\ResetPasswordPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\ResetPasswordPage.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\Views\\ResetPasswordPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:01:47.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResetPasswordPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\ResetPasswordPage.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\ResetPasswordPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\ResetPasswordPage.xaml",
+              "RelativeToolTip": "AuroraDiary11\\Views\\ResetPasswordPage.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T05:01:31.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\RegisterPage1.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\RegisterPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\RegisterPage1.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\Views\\RegisterPage1.xaml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAwBcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:59:09.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\RegisterPage1.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\RegisterPage1.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\RegisterPage1.xaml",
+              "RelativeToolTip": "AuroraDiary11\\Views\\RegisterPage1.xaml",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T04:58:47.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonalDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\PersonalDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\PersonalDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\PersonalDetailsPage.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\Views\\PersonalDetailsPage.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:08:34.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonalDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\PersonalDetailsPage.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\PersonalDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\PersonalDetailsPage.xaml",
+              "RelativeToolTip": "AuroraDiary11\\Views\\PersonalDetailsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T12:08:13.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OnboardingPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\OnboardingPage.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\OnboardingPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\OnboardingPage.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\Views\\OnboardingPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:57:54.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OnboardingPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\OnboardingPage.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\OnboardingPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\OnboardingPage.xaml",
+              "RelativeToolTip": "AuroraDiary11\\Views\\OnboardingPage.xaml",
+              "ViewState": "AQIAACcAAAAAAAAAAIBJwC0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T04:57:11.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NotificationsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\NotificationsPage.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\NotificationsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\NotificationsPage.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\Views\\NotificationsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:09:35.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NotificationsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\NotificationsPage.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\NotificationsPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\NotificationsPage.xaml",
+              "RelativeToolTip": "AuroraDiary11\\Views\\NotificationsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T12:09:11.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAIBJwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:00:01.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "AuroraDiary11\\Views\\LoginPage.xaml",
+              "ViewState": "AQIAADMAAAAAAAAAAIBJwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T04:59:50.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ForgotPasswordPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\ForgotPasswordPage.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\ForgotPasswordPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\ForgotPasswordPage.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\Views\\ForgotPasswordPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:00:51.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ForgotPasswordPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\ForgotPasswordPage.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\ForgotPasswordPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\ForgotPasswordPage.xaml",
+              "RelativeToolTip": "AuroraDiary11\\Views\\ForgotPasswordPage.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T05:00:34.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditEntryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\EditEntryPage.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\EditEntryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\EditEntryPage.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\Views\\EditEntryPage.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:08:46.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditEntryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\EditEntryPage.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\EditEntryPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\EditEntryPage.xaml",
+              "RelativeToolTip": "AuroraDiary11\\Views\\EditEntryPage.xaml",
+              "ViewState": "AQIAACQAAAAAAAAAAIBJwAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T14:08:06.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AllEntryList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\AllEntryList.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\AllEntryList.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\AllEntryList.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\Views\\AllEntryList.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:33:47.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AllEntryList.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\AllEntryList.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\AllEntryList.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\AllEntryList.xaml",
+              "RelativeToolTip": "AuroraDiary11\\Views\\AllEntryList.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T09:33:28.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddEntryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\AddEntryPage.xaml.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\AddEntryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\AddEntryPage.xaml.cs",
+              "RelativeToolTip": "AuroraDiary11\\Views\\AddEntryPage.xaml.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAwHEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:32:45.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddEntryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\AddEntryPage.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Views\\AddEntryPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Views\\AddEntryPage.xaml",
+              "RelativeToolTip": "AuroraDiary11\\Views\\AddEntryPage.xaml",
+              "ViewState": "AQIAACIAAAAAAAAAAIBJwBoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T09:32:32.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "AuroraDiary11\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAIBJwCwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:28:58.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DiaryEntryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\ViewModel\\DiaryEntryViewModel.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\ViewModel\\DiaryEntryViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\ViewModel\\DiaryEntryViewModel.cs",
+              "RelativeToolTip": "AuroraDiary11\\ViewModel\\DiaryEntryViewModel.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA4wAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:16:36.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "AuroraDiary11\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:30:59.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Services\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Services\\NavigationService.cs",
+              "RelativeToolTip": "AuroraDiary11\\Services\\NavigationService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:46:36.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "INavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Services\\INavigationService.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Services\\INavigationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Services\\INavigationService.cs",
+              "RelativeToolTip": "AuroraDiary11\\Services\\INavigationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:45:50.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FirebaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Services\\FirebaseService.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Services\\FirebaseService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Services\\FirebaseService.cs",
+              "RelativeToolTip": "AuroraDiary11\\Services\\FirebaseService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwBMAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:57:30.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FirebaseAuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Services\\FirebaseAuthManager.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Services\\FirebaseAuthManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Services\\FirebaseAuthManager.cs",
+              "RelativeToolTip": "AuroraDiary11\\Services\\FirebaseAuthManager.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAIBJwFUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:55:20.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "AuroraDiary11\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:04:56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "AuroraDiary11\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:05:02.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserModels.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Models\\UserModels.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Models\\UserModels.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Models\\UserModels.cs",
+              "RelativeToolTip": "AuroraDiary11\\Models\\UserModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:08:17.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PushNotificationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Models\\PushNotificationRequest.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Models\\PushNotificationRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Models\\PushNotificationRequest.cs",
+              "RelativeToolTip": "AuroraDiary11\\Models\\PushNotificationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:06:26.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PushNotificationReceived.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Models\\PushNotificationReceived.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Models\\PushNotificationReceived.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Models\\PushNotificationReceived.cs",
+              "RelativeToolTip": "AuroraDiary11\\Models\\PushNotificationReceived.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:05:42.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DiaryEntryDatabasecs.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Data\\DiaryEntryDatabasecs.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Data\\DiaryEntryDatabasecs.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Data\\DiaryEntryDatabasecs.cs",
+              "RelativeToolTip": "AuroraDiary11\\Data\\DiaryEntryDatabasecs.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:20:38.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appicon.svg",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Resources\\AppIcon\\appicon.svg",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Resources\\AppIcon\\appicon.svg",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Resources\\AppIcon\\appicon.svg",
+              "RelativeToolTip": "AuroraDiary11\\Resources\\AppIcon\\appicon.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-04T11:18:31.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appiconfg.svg",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Resources\\AppIcon\\appiconfg.svg",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeToolTip": "AuroraDiary11\\Resources\\AppIcon\\appiconfg.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-04T11:20:47.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DiaryEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Models\\DiaryEntry.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Models\\DiaryEntry.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Models\\DiaryEntry.cs",
+              "RelativeToolTip": "AuroraDiary11\\Models\\DiaryEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:31:55.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DiaryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Models\\DiaryItem.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Models\\DiaryItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Models\\DiaryItem.cs",
+              "RelativeToolTip": "AuroraDiary11\\Models\\DiaryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:04:21.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\App.xaml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\App.xaml",
+              "RelativeToolTip": "AuroraDiary11\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-03T04:27:27.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AuroraDiary11.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\AuroraDiary11.csproj",
+              "RelativeDocumentMoniker": "AuroraDiary11\\AuroraDiary11.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\AuroraDiary11.csproj",
+              "RelativeToolTip": "AuroraDiary11\\AuroraDiary11.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T08:22:53.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "AuroraDiary11\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-04T06:40:04.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "settings.svg",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Resources\\Images\\settings.svg",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Resources\\Images\\settings.svg",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Resources\\Images\\settings.svg",
+              "RelativeToolTip": "AuroraDiary11\\Resources\\Images\\settings.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-03T12:23:12.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "AuroraDiary11\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AuroraDiary11\\AuroraDiary11\\Data\\Database.cs",
+              "RelativeToolTip": "AuroraDiary11\\Data\\Database.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:03:17.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

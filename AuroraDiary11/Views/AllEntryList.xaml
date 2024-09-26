@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AuroraDiary.Views"
+             x:Class="AuroraDiary.Views.AllEntryList"
+             Title="All Diary Entries">
+    <ContentPage.BackgroundImageSource>
+        <FileImageSource File="background2.jpg"/>
+    </ContentPage.BackgroundImageSource>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Settings"
+                     IconImageSource="settings.svg"
+                     Order="Primary"
+                     Priority="0"
+                     Command="{Binding NavigateToSettingsCommand}" />
+    </ContentPage.ToolbarItems>
+
+    <StackLayout Padding="10">
+        <ListView x:Name="entryListView" 
+                  ItemsSource="{Binding Entries}"
+                  VerticalOptions="FillAndExpand"
+                  SeparatorVisibility="None"
+                  ItemTapped="OnItemTapped"
+                  HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Frame CornerRadius="10" 
+                               BorderColor="LightGray"
+                               Padding="10"
+                               Margin="5,5,5,10">
+                            <StackLayout>
+                                <StackLayout Orientation="Horizontal" Spacing="10">
+                                    <Label Text="{Binding Title}" 
+                                           VerticalOptions="Center" 
+                                           HorizontalOptions="StartAndExpand" 
+                                           FontSize="Medium" 
+                                           FontAttributes="Bold"
+                                           TextColor="#03045e" />
+                                    <Label Text="{Binding Date}" 
+                                           VerticalOptions="Center" 
+                                           HorizontalOptions="End" 
+                                           FontSize="Small" 
+                                           TextColor="Gray" />
+                                </StackLayout>
+                                <Image Source="{Binding Photo}" HeightRequest="100" />
+                                <Label Text="{Binding Emotion}" FontSize="Small" TextColor="Black" />
+                                <Label Text="{Binding Content}" IsVisible="{Binding IsContentVisible}" FontSize="Small" TextColor="Black" />
+                                <StackLayout Orientation="Horizontal" 
+                                             IsVisible="{Binding IsButtonsVisible}" 
+                                             Spacing="10"
+                                             Margin="0,10,0,0">
+                                    <Button Text="Edit" 
+                                            Command="{Binding BindingContext.EditEntryCommand, Source={x:Reference entryListView}}" 
+                                            CommandParameter="{Binding .}"
+                                            BackgroundColor="#0077b6"
+                                            TextColor="White"
+                                            CornerRadius="5" />
+                                    <Button Text="Delete" 
+                                            Command="{Binding BindingContext.DeleteEntryCommand, Source={x:Reference entryListView}}" 
+                                            CommandParameter="{Binding .}"
+                                            BackgroundColor="Red"
+                                            TextColor="White"
+                                            CornerRadius="5" />
+                                </StackLayout>
+                            </StackLayout>
+                        </Frame>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Text="Add New Entry" 
+                VerticalOptions="End" 
+                HorizontalOptions="Center"
+                Command="{Binding AddEntryCommand}"
+                BackgroundColor="#0077b6"
+                TextColor="White"
+                CornerRadius="20"
+                Padding="10,5" />
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,119 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AuroraDiary11
+build_property.ProjectDir = C:\Users\Admin\source\repos\AuroraDiary11\AuroraDiary11\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Views/AddEntryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Views.AddEntryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddEntryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddEntryPage.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Views/AllEntryList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Views.AllEntryList.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AllEntryList.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AllEntryList.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Views/EditEntryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Views.EditEntryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditEntryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditEntryPage.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Views/ForgotPasswordPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Views.ForgotPasswordPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ForgotPasswordPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ForgotPasswordPage.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPage.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Views/NotificationsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Views.NotificationsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\NotificationsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\NotificationsPage.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Views/OnboardingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Views.OnboardingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\OnboardingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\OnboardingPage.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Views/PersonalDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Views.PersonalDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PersonalDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PersonalDetailsPage.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Views/RegisterPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Views.RegisterPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RegisterPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RegisterPage1.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Views/ResetPasswordPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Views.ResetPasswordPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ResetPasswordPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ResetPasswordPage.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Views/SettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Views.SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SettingsPage.xaml
+
+[C:/Users/Admin/source/repos/AuroraDiary11/AuroraDiary11/Views/SplashPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AuroraDiary11.Views.SplashPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SplashPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SplashPage.xaml

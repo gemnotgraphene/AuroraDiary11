@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AuroraDiary.Views.RegisterPage1">
+    <ContentPage.BackgroundImageSource>
+        <FileImageSource File="background2.jpg"/>
+    </ContentPage.BackgroundImageSource>
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+            <Label Text="Register"
+                   FontSize="36"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
+            <Label Text="Let's get started!"
+                   FontSize="24"
+                   HorizontalOptions="Center" />
+            <Entry x:Name="EntryFirstName" Placeholder="First Name" />
+            <Entry x:Name="EntryLastName" Placeholder="Last Name" />
+            <Entry x:Name="EntryEmail" Placeholder="Email" />
+            <Entry x:Name="EntryPassword" Placeholder="Password" IsPassword="True" />
+            <Label Text="Must contain at least 6 characters" FontSize="12" TextColor="Gray" />
+            <Button Text="Continue"
+                    BackgroundColor="Black"
+                    TextColor="White"
+                    Command="{Binding ContinueCommand}" />
+            <Label Text="Already have an account? Login"
+                   FontSize="12"
+                   TextColor="Blue"
+                   HorizontalOptions="Center">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding LoginCommand}" />
+                </Label.GestureRecognizers>
+            </Label>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

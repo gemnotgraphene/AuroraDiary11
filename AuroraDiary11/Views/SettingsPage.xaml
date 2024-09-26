@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AuroraDiary.Views.SettingsPage">
+    <ContentPage.BackgroundImageSource>
+        <FileImageSource File="background2.jpg"/>
+    </ContentPage.BackgroundImageSource>
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20">
+            <Frame BorderColor="LightGray" CornerRadius="10" Padding="10" Margin="0, 10">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Personal details" FontSize="18" VerticalOptions="Center" HorizontalOptions="StartAndExpand" TextColor="#512bdf"/>
+                    <Button Text="➔" FontSize="18" Command="{Binding NavigateToPersonalDetailsCommand}" HorizontalOptions="End" BackgroundColor="#512bdf" TextColor="White"/>
+                </StackLayout>
+            </Frame>
+            <Frame BorderColor="LightGray" CornerRadius="10" Padding="10" Margin="0, 10">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Notifications" FontSize="18" VerticalOptions="Center" HorizontalOptions="StartAndExpand" TextColor="#512bdf"/>
+                    <Button Text="➔" FontSize="18" Command="{Binding NavigateToNotificationsCommand}" HorizontalOptions="End" BackgroundColor="#512bdf" TextColor="White"/>
+                </StackLayout>
+            </Frame>
+            <Frame BorderColor="LightGray" CornerRadius="10" Padding="10" Margin="0, 10">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Logout" FontSize="18" VerticalOptions="Center" HorizontalOptions="StartAndExpand" TextColor="#512bdf"/>
+                    <Button Text="➔" FontSize="18" Command="{Binding NavigateToLogoutCommand}" HorizontalOptions="End" BackgroundColor="#512bdf" TextColor="White"/>
+                </StackLayout>
+            </Frame>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

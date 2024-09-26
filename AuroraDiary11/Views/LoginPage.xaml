@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AuroraDiary.Views.LoginPage"
+             xmlns:vm="clr-namespace:AuroraDiary.ViewModels">
+    <ContentPage.BindingContext>
+        <vm:LoginViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.BackgroundImageSource>
+        <FileImageSource File="background2.jpg"/>
+    </ContentPage.BackgroundImageSource>
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+            <Label Text="Login"
+                   FontSize="36"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
+            <Label Text="Welcome Back!"
+                   FontSize="24"
+                   HorizontalOptions="Center" />
+            <Label Text="Input your Email Address &amp; Password"
+                   FontSize="16"
+                   HorizontalOptions="Center" />
+            <Entry x:Name="EntryEmail"
+                   Placeholder="Email"
+                   Text="{Binding Email}" />
+            <Entry x:Name="EntryPassword"
+                   Placeholder="Password"
+                   IsPassword="True"
+                   Text="{Binding Password}" />
+            <HorizontalStackLayout>
+                <CheckBox x:Name="RememberMeCheckbox" />
+                <Label Text="Remember Me" VerticalOptions="Center" />
+            </HorizontalStackLayout>
+            <Label Text="Must contain at least 6 characters"
+                   FontSize="12"
+                   TextColor="Gray" />
+            <Button Text="Log In"
+                    BackgroundColor="Black"
+                    TextColor="White"
+                    Command="{Binding LoginCommand}" />
+            <Label Text="Forgot Password?"
+                   FontSize="12"
+                   TextColor="Blue"
+                   HorizontalOptions="Center">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding ForgotPasswordCommand}" />
+                </Label.GestureRecognizers>
+            </Label>
+            <Label Text="Register"
+                   FontSize="12"
+                   TextColor="Blue"
+                   HorizontalOptions="Center">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="RegisterLabel_Tapped" />
+                </Label.GestureRecognizers>
+            </Label>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

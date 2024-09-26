@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240683147942",
+    "project_id": "aurora-diary11",
+    "storage_bucket": "aurora-diary11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240683147942:android:732fb5d64add950ea70a67",
+        "android_client_info": {
+          "package_name": "gem.AuroraDiary11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNkgTRl3NCwB9gQ2z64eKyImtv_Edd5gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

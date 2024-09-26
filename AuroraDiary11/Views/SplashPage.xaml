@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AuroraDiary.Views.SplashPage"
+             BackgroundColor="White">
+    <VerticalStackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+        <Image Source="logo.png" />
+        <Label Text="AURORA DIARY"
+               FontSize="26"
+               FontFamily="NotableRegular"
+               FontAttributes="Bold"
+               TextColor="Black"
+               HorizontalOptions="Center" />
+        <Label Text="Welcome to Aurora Diary"
+               FontSize="20"
+               FontFamily="ManropeVariable"
+               TextColor="Black"
+               HorizontalOptions="Center" />
+    </VerticalStackLayout>
+</ContentPage>

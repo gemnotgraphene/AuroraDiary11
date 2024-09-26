@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AuroraDiary.Views.EditEntryPage"
+             Title="Edit Entry">
+    <ContentPage.BackgroundImageSource>
+        <FileImageSource File="background2.jpg"/>
+    </ContentPage.BackgroundImageSource>
+
+    <StackLayout Padding="20" Spacing="10">
+        <Entry x:Name="titleEntry" 
+               Text="{Binding Entry.Title}" 
+               Placeholder="Title" 
+               PlaceholderColor="#03045e" 
+               TextColor="#03045e" />
+        <DatePicker x:Name="datePicker" 
+                    Date="{Binding Entry.Date}" 
+                    TextColor="#03045e" />
+
+        <Picker x:Name="emotionPicker" 
+                Title="Select Emotion" 
+                SelectedItem="{Binding Entry.Emotion}"
+                TextColor="#03045e">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Sad</x:String>
+                    <x:String>Neutral</x:String>
+                    <x:String>Happy</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+
+        <Image x:Name="photoImage" 
+               Source="{Binding Entry.Photo}" 
+               HeightRequest="200" />
+
+        <Editor x:Name="contentEditor" 
+                Text="{Binding Entry.Content}" 
+                Placeholder="Content" 
+                HeightRequest="200" 
+                PlaceholderColor="#03045e" 
+                TextColor="#03045e" />
+
+        <Button Text="Save" 
+                Command="{Binding SaveEntryCommand}" 
+                VerticalOptions="End" 
+                HorizontalOptions="Center"
+                BackgroundColor="#0077b6"
+                TextColor="White" />
+    </StackLayout>
+</ContentPage>

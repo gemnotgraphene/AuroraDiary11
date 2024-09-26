@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="AuroraDiary.Views.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:AuroraDiary.Views"
+    Shell.FlyoutBehavior="Disabled"
+    Title="AuroraDiary">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+        Title="Register"
+        ContentTemplate="{DataTemplate local:RegisterPage1}"
+        Route="RegisterPage1" />
+    <ShellContent
+        Title="Login"
+        ContentTemplate="{DataTemplate local:LoginPage}"
+        Route="LoginPage" />
+    <ShellContent
+        Title="All Entries"
+        ContentTemplate="{DataTemplate local:AllEntryList}"
+        Route="AllEntryList" />
+    <ShellContent
+        Title="Add Entry"
+        ContentTemplate="{DataTemplate local:AddEntryPage}"
+        Route="AddEntryPage" />
+</Shell>
